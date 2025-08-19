@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SohamSarkar025/11600222109/issues"
   },
-  "homepage": "https://github.com/SohamSarkar025/11600222109#readme"
+  "homepage": "https://github.com/SohamSarkar025/11600222109#readme",
+  "dependencies": {
+    "body-parser": "^2.2.0",
+    "express": "^5.1.0",
+    "uuid": "^11.1.0",
+    "valid-url": "^1.0.9"
+  }
 }
